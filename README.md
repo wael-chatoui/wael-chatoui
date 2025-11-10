@@ -59,7 +59,7 @@ I aim for **clarity, performance, and scalability** in everything I build.
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgresql,supabase,docker,linux,qt,electron,unity,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgresql,supabase,docker,linux,electron,unity,c,git,python" />
 </p>
 
 ---
