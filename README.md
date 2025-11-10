@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://i.imgur.com/z0p4W9k.png" alt="42 Logo" width="70"/>
+  <img src="./42paris_white.png" alt="42 Logo" width="70"/>
 </p>
 
 
