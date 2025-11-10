@@ -49,8 +49,8 @@ Whether debugging low-level C code or deploying a full-stack app, I focus on **c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waelchatoui&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelchatoui&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wael-chatoui&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-chatoui&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
 </p>
 
 <p align="center">
