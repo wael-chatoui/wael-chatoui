@@ -54,7 +54,7 @@ Whether debugging low-level C code or deploying a full-stack app, I focus on **c
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=waelchatoui&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=wael-chatoui&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
