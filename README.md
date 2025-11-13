@@ -18,16 +18,6 @@
   - **TypeScript**, **React.js**, **Next.js**
   - **Node.js**, **PostgreSQL**, **Supabase**
   - **Docker**, **Linux (Arch + KDE)**, **CI/CD pipelines**
-  - **Electron.js**, **Qt**, **C/C++**
-
----
-
-## 🧩 Current Projects
-
-- 🖥️ **Portfolio Website** – Built with Next.js (TypeScript, Tailwind, i18n, 3D components)  
-- ⚙️ **Fidem** – Microservice web/mobile social media platform  
-
-Check out my pinned repositories below to explore my latest work 👇
 
 ---
 
@@ -64,9 +54,4 @@ I aim for **clarity, performance, and scalability** in everything I build.
 
 ---
 
-### ⚡ Fun Fact  
-I love automating things that should have been automated long ago — and making them faster than expected.
-
----
-
-⭐️ From [Wael Chatoui](https://github.com/waelchatoui)
+⭐️ From [Wael Chatoui](https://github.com/wael-chatoui)
