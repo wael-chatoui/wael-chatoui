@@ -3,9 +3,13 @@
 🎯 **Computer Science student** from France, focused on building scalable and elegant solutions.  
 💡 Passionate about **clean code**, **automation**, and **continuous ## 🧩 Tech Stack
 
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgresql,supabase,docker,linux,electron,unity,c,git,python" />
 </p>
+
+---
 
 ## 🚀 About Me
 
