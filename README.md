@@ -21,14 +21,6 @@
 
 ---
 
-## 🧠 Mindset
-
-> “Genius is 1% inspiration and 99% hard work.” — *Thomas Edison*  
-Every challenge is a chance to refine, optimize, and grow.  
-I aim for **clarity, performance, and scalability** in everything I build.
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 [Portfolio Website](https://wael-chatoui.ovh)  
