@@ -16,7 +16,7 @@
 - 🧠 Always exploring **system design** and **performance optimization**  
 - ⚙️ I work mainly with:
   - **TypeScript**, **React.js**, **Next.js**
-  - **Node.js**, **PostgreSQL**, **Supabase**
+  - **Node.js**, **Python**, **PostgreSQL**, **Supabase**
   - **Docker**, **Linux (Arch + KDE)**, **CI/CD pipelines**
 
 ---
