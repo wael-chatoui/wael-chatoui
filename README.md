@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Wael Chatoui
 
 🎯 **Computer Science student** from France, focused on building scalable and elegant solutions.  
-💡 Passionate about **clean code**, **automation**, and **continuous learning**.
-##
+💡 Passionate about **clean code**, **automation**, and **continuous ## 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgresql,supabase,docker,linux,electron,unity,c,git,python" />
+</p>
 
 ## 🚀 About Me
 
@@ -34,14 +37,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wael-chatoui&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-chatoui&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
-</p>
-
----
-
-## 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgresql,supabase,docker,linux,electron,unity,c,git,python" />
 </p>
 
 ---
