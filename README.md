@@ -34,7 +34,7 @@
 
 - 💼 [Portfolio Website](https://wael-chatoui.ovh)  
 - 💬 [LinkedIn](https://linkedin.com/in/waelchatoui-6275a1322)  
-- 📫 **Email:** contact.fraawdrinn@gmail.com  
+- 📫 [Mail](contact.fraawdrinn@gmail.com)
 
 ---
 
