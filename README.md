@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wael Chatoui
 
 🎯 **Computer Science student** from France, focused on building scalable and elegant solutions.  
-💡 Passionate about **clean code**, **automation**, and **continuous 
+💡 Passionate about **clean code**, **automation**, and **working with big code bases**
 
 ---
 
